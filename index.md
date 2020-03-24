@@ -2,10 +2,10 @@
 
 ---
 
-### Category Name 1 
+### Project in Embedded Systems
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Arduino Project](/sample_page)
+<img src="images/Skärmavbild 2020-03-24 kl. 12.09.30.png?raw=true"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
