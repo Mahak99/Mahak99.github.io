@@ -4,7 +4,7 @@
 
 ### Project in Embedded Systems
 
-[Arduino Project](/sample_page)
+[Arduino Project](/pdf/presentation- inbyggd elektronik.pdf)
 <img src="images/Skärmavbild 2020-03-24 kl. 12.09.30.png?raw=true"/>
 
 ---
