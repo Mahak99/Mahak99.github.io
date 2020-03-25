@@ -11,11 +11,7 @@
   functioned as an input and an LED functioned as an output </p>
 
 ---
-[Project in Modern Software Development](/pdf/sample_presentation.pdf)
+[Project in Modern Software Development]
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+<p> An ongoing group project where a website for an Italian restaurant is about to be developed. </p>
 ---
