@@ -3,7 +3,7 @@
 ---
 
 ### Project in Embedded Systems
-<p This project was executed year 2019 during two weeks with Annika Gerigoorian p>
+<p> This project was executed year 2019 during two weeks with Annika Gerigoorian <p>
 
 [Arduino Project](/pdf/presentation- inbyggd elektronik.pdf)
 <img src="images/Skärmavbild 2020-03-24 kl. 12.09.30.png?raw=true"/>
