@@ -15,7 +15,7 @@
 
 
 <img src="images/Skärmavbild 2020-03-25 kl. 22.03.23.png?raw=true"/>
-<img src="images/<img src="images/Skärmavbild 2020-03-25 kl. 22.03.23.png?raw=true"/>
+<img src="images/Skärmavbild 2020-03-25 kl. 22.03.23.png?raw=true"/>
 
 <p> An ongoing group project where a website for an Italian restaurant is about to be developed. </p>
 
