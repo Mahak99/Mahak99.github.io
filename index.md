@@ -11,7 +11,7 @@
   functioned as an input and an LED functioned as an output </p>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Project in Modern Software Development](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
