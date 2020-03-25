@@ -11,7 +11,9 @@
   functioned as an input and an LED functioned as an output. </p>
 
 ---
-[Project in Modern Software Development]
+### Project in Modern Software Development
+
+
 <img src="images/Skärmavbild 2020-03-25 kl. 22.03.23.png?raw=true"/>
 <p> An ongoing group project where a website for an Italian restaurant is about to be developed. </p>
 ---
